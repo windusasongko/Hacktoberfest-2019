@@ -1,4 +1,4 @@
-## Welcome to Multilinks [Hacktoberfest](https://hacktoberfest.digitalocean.com) Corner! :fire::boom::clap:
+## Welcome to Multilinks [Hacktoberfest](https://hacktoberfest.digitalocean.com) Corner!
 
 ![Hacktoberfest 2019 Header Image](doc_assets/hacktoberfest_2019_header.png "Hacktoberfest 2019 Header Image")
 
