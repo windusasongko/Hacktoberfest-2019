@@ -14,6 +14,8 @@ It would appears October have snucked up on us so we haven't had the chance to h
 
 Multilinks is a new project, now is a perfect time to get involve and see it take shape, from an idea into something tangible.  Below is a list of repositories which are the core components of Multilinks. Each repository will have its own list of issues. For Hacktoberfest "ready" issues, they will be tagged with #Hacktoberfest plus additional tags indicating the issue type and complexity.
 
+> **Note:** Not all issues are intended for Hacktoberfest as they may not be groomed or blocked in some ways. So please only consider ones tagged with #Hacktoberfest. If you would like to work on an issue, let us know in the comment section of the respective issue and we will assign it to you if not assigned already. This way your effort will not go to waste.
+
 | Repository | Readme | Hacktoberfest Issues|
 |:--------------:|:---------------------------:|:------------------------:|
 | [Multilinks Identity](https://github.com/ChrisDinhNZ/MultilinksIdentity) | [README.md](https://github.com/ChrisDinhNZ/MultilinksIdentity/blob/master/README.md) | [Hacktoberfest open issues](https://github.com/ChrisDinhNZ/MultilinksIdentity/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) |
